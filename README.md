@@ -1,0 +1,1 @@
+Implemented multilayer perception (MLPs) that make a binary prediction about data based on its features, including data balances, data splits, backpropagation, varying activation functions, and initialization and hyperparamters
